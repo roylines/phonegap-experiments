@@ -1,4 +1,3 @@
-phonegap-experiments
-====================
+# phonegap-experiments
 
 Just playin' around with phonegap
